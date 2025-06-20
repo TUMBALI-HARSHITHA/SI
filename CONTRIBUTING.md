@@ -19,7 +19,7 @@ Thanks for considering contributing! Please take a moment to review this guide.
 
 ## Reporting Issues
 
-If you find a bug or want to request a feature, please [open an issue](https://github.com/your-repo/issues) and provide as much detail as possible.
+If you find a bug or want to request a feature, please [open an issue](https://github.com/issues/assigned) and provide as much detail as possible.
 
 ## Code of Conduct
 
